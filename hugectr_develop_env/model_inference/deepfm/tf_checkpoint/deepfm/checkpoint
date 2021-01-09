@@ -1,0 +1,2 @@
+model_checkpoint_path: "deepfm_model-0"
+all_model_checkpoint_paths: "deepfm_model-0"
